@@ -7,3 +7,5 @@ This repository showcases a deep learning project that creates original oil port
 The paintings generated are abstract in form. This is because the neural network was only trained for 200 epochs due to hardware limitations. Regardless, the outcome still demonstrates the exciting possibility of using machine learning tools to generate compelling works of art.
 
 Added a few and refined workflows.
+
+Some more.
