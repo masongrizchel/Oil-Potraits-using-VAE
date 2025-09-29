@@ -9,5 +9,3 @@ The paintings generated are abstract in form. This is because the neural network
 Added a few more arrangements.
 
 Codes were added as well.
-
-Notified the personnel involved.
