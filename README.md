@@ -9,5 +9,3 @@ The paintings generated are abstract in form. This is because the neural network
 Have considered several workflows that we can test.
 
 Things to add.
-
-Things to limit.
