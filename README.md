@@ -11,5 +11,3 @@ A test.
 A test.
 
 A test.
-
-A test.
