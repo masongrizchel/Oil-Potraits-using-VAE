@@ -9,5 +9,3 @@ The paintings generated are abstract in form. This is because the neural network
 A test.
 
 A test.
-
-A test.
